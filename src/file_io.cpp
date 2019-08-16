@@ -118,7 +118,7 @@ public:
 
         posix_fadvise(m_fd, 0, 0, 1); //sequential advice
 
-        auto readStatus = read(m_fd, (void*)m_data.get(), this -> size());
+        auto readStatus = read(m_fd, m_data.get(), this -> size());
         if(readStatus == -1)
             handle_error("read");
 
@@ -158,8 +158,6 @@ std::vector<Vector4f> loadFile(const std::string& filename)
     MemoryMappedFile mappedFile(filename);
 
     fmt::print("file size {}\n", mappedFile.end() - mappedFile.begin());
-
-    return points;
 
     auto numThreads = std::thread::hardware_concurrency();
     auto chunks = divideIntoChunks(mappedFile.begin(), mappedFile.end(), mappedFile.size() / numThreads);

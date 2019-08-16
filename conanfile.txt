@@ -1,5 +1,6 @@
 [requires]
 fmt/5.3.0@bincrafters/stable
+openmpi/3.0.0@bincrafters/stable
 
 [generators]
 cmake

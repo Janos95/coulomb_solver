@@ -9,13 +9,15 @@ conan_basic_setup(TARGETS)
 set(CMAKE_CXX_STANDARD 17)
 
 add_executable(cs
-        main.cpp
-        file_io.cpp
-        file_io.hpp
-        binary_operations.hpp
-        unroll.hpp
-        vector_traits.hpp
-        vector.hpp)
+        src/main.cpp
+        src/coulomb_solver.cpp
+        src/coulomb_solver.hpp
+        src/file_io.cpp
+        src/file_io.hpp
+        src/binary_operations.hpp
+        src/unroll.hpp
+        src/vector_traits.hpp
+        src/vector.hpp)
 
 target_link_libraries(cs PRIVATE
         CONAN_PKG::fmt

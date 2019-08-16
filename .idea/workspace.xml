@@ -12,9 +12,190 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e37043fe-94d6-4aa8-a4a0-e0c07d7ea5c7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Doxyfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/annotated.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/bc_s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/bdwn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/binary__operations_8hpp_source.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/classCoulombSolver-members.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/classCoulombSolver.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/classExprSize.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/classExprSize_3_01BinaryOp_3_01Expr1_00_01Expr2_00_01operation_01_4_01_4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/classExprSize_3_01BinaryOp_3_01Expr1_00_01Expr2_00_01operation_01_4_01_4__coll__graph.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/classExprSize_3_01BinaryOp_3_01Expr1_00_01Expr2_00_01operation_01_4_01_4__coll__graph.md5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/classExprSize_3_01BinaryOp_3_01Expr1_00_01Expr2_00_01operation_01_4_01_4__coll__graph.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/classExprSize_3_01BinaryOp_3_01Expr1_00_01Expr2_00_01operation_01_4_01_4__inherit__graph.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/classExprSize_3_01BinaryOp_3_01Expr1_00_01Expr2_00_01operation_01_4_01_4__inherit__graph.md5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/classExprSize_3_01BinaryOp_3_01Expr1_00_01Expr2_00_01operation_01_4_01_4__inherit__graph.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/classExprSize_3_01Vector_3_01T_00_01n_01_4_01_4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/classExprSize_3_01Vector_3_01T_00_01n_01_4_01_4__coll__graph.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/classExprSize_3_01Vector_3_01T_00_01n_01_4_01_4__coll__graph.md5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/classExprSize_3_01Vector_3_01T_00_01n_01_4_01_4__coll__graph.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/classExprSize_3_01Vector_3_01T_00_01n_01_4_01_4__inherit__graph.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/classExprSize_3_01Vector_3_01T_00_01n_01_4_01_4__inherit__graph.md5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/classExprSize_3_01Vector_3_01T_00_01n_01_4_01_4__inherit__graph.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/classMemoryMappedFile-members.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/classMemoryMappedFile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/classes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/closed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/coulomb__solver_8hpp_source.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/dir_68267d1309a1af8e8297ef4c3efbcdba.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/doc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/doxygen.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/doxygen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/dynsections.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/file__io_8hpp_source.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/files.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/folderclosed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/folderopen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/functions.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/functions_func.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/graph_legend.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/graph_legend.md5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/graph_legend.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/hierarchy.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/inherit_graph_0.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/inherit_graph_0.md5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/inherit_graph_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/inherit_graph_1.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/inherit_graph_1.md5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/inherit_graph_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/inherit_graph_2.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/inherit_graph_2.md5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/inherit_graph_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/inherit_graph_3.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/inherit_graph_3.md5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/inherit_graph_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/inherit_graph_4.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/inherit_graph_4.md5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/inherit_graph_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/inherit_graph_5.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/inherit_graph_5.md5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/inherit_graph_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/inherit_graph_6.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/inherit_graph_6.md5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/inherit_graph_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/inherit_graph_7.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/inherit_graph_7.md5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/inherit_graph_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/inherit_graph_8.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/inherit_graph_8.md5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/inherit_graph_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/inherits.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/menu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/menudata.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/nav_f.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/nav_g.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/nav_h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/open.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/search/all_0.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/search/all_0.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/search/all_1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/search/all_1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/search/all_2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/search/all_2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/search/all_3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/search/all_3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/search/all_4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/search/all_4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/search/all_5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/search/all_5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/search/all_6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/search/all_6.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/search/classes_0.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/search/classes_0.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/search/classes_1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/search/classes_1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/search/classes_2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/search/classes_2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/search/classes_3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/search/classes_3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/search/classes_4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/search/classes_4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/search/classes_5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/search/classes_5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/search/close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/search/functions_0.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/search/functions_0.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/search/mag_sel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/search/nomatches.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/search/search.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/search/search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/search/search_l.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/search/search_m.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/search/search_r.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/search/searchdata.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/splitbar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/structBinaryOp-members.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/structBinaryOp.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/structBinaryOp__coll__graph.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/structBinaryOp__coll__graph.md5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/structBinaryOp__coll__graph.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/structBinaryOp__inherit__graph.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/structBinaryOp__inherit__graph.md5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/structBinaryOp__inherit__graph.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/structChunk-members.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/structChunk.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/structVector-members.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/structVector.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/structparseChunk-members.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/structparseChunk.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/structparseChunk__coll__graph.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/structparseChunk__coll__graph.md5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/structparseChunk__coll__graph.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/sync_off.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/sync_on.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/tab_a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/tab_b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/tab_h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/tab_s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/tabs.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/unroll_8hpp_source.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/vector_8hpp_source.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/vector__traits_8hpp_source.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/latex/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/latex/annotated.tex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/latex/classCoulombSolver.tex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/latex/classExprSize.tex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/latex/classExprSize_3_01BinaryOp_3_01Expr1_00_01Expr2_00_01operation_01_4_01_4.tex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/latex/classExprSize_3_01BinaryOp_3_01Expr1_00_01Expr2_00_01operation_01_4_01_4__coll__graph.md5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/latex/classExprSize_3_01BinaryOp_3_01Expr1_00_01Expr2_00_01operation_01_4_01_4__coll__graph.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/latex/classExprSize_3_01BinaryOp_3_01Expr1_00_01Expr2_00_01operation_01_4_01_4__inherit__graph.md5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/latex/classExprSize_3_01BinaryOp_3_01Expr1_00_01Expr2_00_01operation_01_4_01_4__inherit__graph.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/latex/classExprSize_3_01Vector_3_01T_00_01n_01_4_01_4.tex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/latex/classExprSize_3_01Vector_3_01T_00_01n_01_4_01_4__coll__graph.md5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/latex/classExprSize_3_01Vector_3_01T_00_01n_01_4_01_4__coll__graph.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/latex/classExprSize_3_01Vector_3_01T_00_01n_01_4_01_4__inherit__graph.md5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/latex/classExprSize_3_01Vector_3_01T_00_01n_01_4_01_4__inherit__graph.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/latex/classMemoryMappedFile.tex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/latex/dir_68267d1309a1af8e8297ef4c3efbcdba.tex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/latex/doxygen.sty" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/latex/hierarchy.tex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/latex/refman.tex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/latex/structBinaryOp.tex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/latex/structBinaryOp__coll__graph.md5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/latex/structBinaryOp__coll__graph.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/latex/structBinaryOp__inherit__graph.md5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/latex/structBinaryOp__inherit__graph.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/latex/structChunk.tex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/latex/structVector.tex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/latex/structparseChunk.tex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/latex/structparseChunk__coll__graph.md5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/latex/structparseChunk__coll__graph.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coulomb_solver.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coulomb_solver.hpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/file_io.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/file_io.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/binary_operations.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/binary_operations.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conanfile.txt" beforeDir="false" afterPath="$PROJECT_DIR$/conanfile.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/file_io.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/file_io.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/file_io.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/file_io.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unroll.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/unroll.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vector.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/vector.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vector_traits.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/vector_traits.hpp" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,11 +211,20 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1P0YplKUqvQNBsoerCspu9Lo3rS" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="CMakeSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -79,6 +269,8 @@
       <workItem from="1565533527659" duration="6103000" />
       <workItem from="1565539961999" duration="485000" />
       <workItem from="1565595593413" duration="944000" />
+      <workItem from="1565601579759" duration="599000" />
+      <workItem from="1565718950523" duration="4871000" />
     </task>
     <servers />
   </component>
@@ -97,5 +289,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
