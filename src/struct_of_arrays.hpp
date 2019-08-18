@@ -131,7 +131,9 @@ public:
 
     iterator insert(iterator pos, iterator first, iterator last)
     {
-        return apply_for_each_row([](auto&& xs, auto p, auto f, auto l){ return xs.insert(p, f, l);} , m_vectors, pos.m_it, first.m_it, last.m_it);
+        return {apply_for_each_row(
+                [](auto&& xs, auto p, auto f, auto l){ return xs.insert(p, f, l);},
+                m_vectors, pos.m_it, first.m_it, last.m_it)};
     }
 
 private:

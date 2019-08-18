@@ -15,190 +15,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e37043fe-94d6-4aa8-a4a0-e0c07d7ea5c7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/struct_of_arrays.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tuple_helper.hpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/annotated.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/bc_s.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/bdwn.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/binary__operations_8hpp_source.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/classCoulombSolver-members.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/classCoulombSolver.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/classExprSize.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/classExprSize_3_01BinaryOp_3_01Expr1_00_01Expr2_00_01operation_01_4_01_4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/classExprSize_3_01BinaryOp_3_01Expr1_00_01Expr2_00_01operation_01_4_01_4__coll__graph.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/classExprSize_3_01BinaryOp_3_01Expr1_00_01Expr2_00_01operation_01_4_01_4__coll__graph.md5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/classExprSize_3_01BinaryOp_3_01Expr1_00_01Expr2_00_01operation_01_4_01_4__coll__graph.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/classExprSize_3_01BinaryOp_3_01Expr1_00_01Expr2_00_01operation_01_4_01_4__inherit__graph.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/classExprSize_3_01BinaryOp_3_01Expr1_00_01Expr2_00_01operation_01_4_01_4__inherit__graph.md5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/classExprSize_3_01BinaryOp_3_01Expr1_00_01Expr2_00_01operation_01_4_01_4__inherit__graph.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/classExprSize_3_01Vector_3_01T_00_01n_01_4_01_4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/classExprSize_3_01Vector_3_01T_00_01n_01_4_01_4__coll__graph.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/classExprSize_3_01Vector_3_01T_00_01n_01_4_01_4__coll__graph.md5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/classExprSize_3_01Vector_3_01T_00_01n_01_4_01_4__coll__graph.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/classExprSize_3_01Vector_3_01T_00_01n_01_4_01_4__inherit__graph.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/classExprSize_3_01Vector_3_01T_00_01n_01_4_01_4__inherit__graph.md5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/classExprSize_3_01Vector_3_01T_00_01n_01_4_01_4__inherit__graph.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/classMemoryMappedFile-members.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/classMemoryMappedFile.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/classes.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/closed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/coulomb__solver_8hpp_source.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/dir_68267d1309a1af8e8297ef4c3efbcdba.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/doc.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/doxygen.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/doxygen.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/dynsections.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/file__io_8hpp_source.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/files.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/folderclosed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/folderopen.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/functions.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/functions_func.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/graph_legend.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/graph_legend.md5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/graph_legend.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/hierarchy.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/inherit_graph_0.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/inherit_graph_0.md5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/inherit_graph_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/inherit_graph_1.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/inherit_graph_1.md5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/inherit_graph_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/inherit_graph_2.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/inherit_graph_2.md5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/inherit_graph_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/inherit_graph_3.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/inherit_graph_3.md5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/inherit_graph_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/inherit_graph_4.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/inherit_graph_4.md5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/inherit_graph_4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/inherit_graph_5.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/inherit_graph_5.md5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/inherit_graph_5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/inherit_graph_6.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/inherit_graph_6.md5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/inherit_graph_6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/inherit_graph_7.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/inherit_graph_7.md5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/inherit_graph_7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/inherit_graph_8.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/inherit_graph_8.md5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/inherit_graph_8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/inherits.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/jquery.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/menu.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/menudata.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/nav_f.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/nav_g.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/nav_h.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/open.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/search/all_0.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/search/all_0.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/search/all_1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/search/all_1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/search/all_2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/search/all_2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/search/all_3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/search/all_3.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/search/all_4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/search/all_4.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/search/all_5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/search/all_5.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/search/all_6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/search/all_6.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/search/classes_0.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/search/classes_0.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/search/classes_1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/search/classes_1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/search/classes_2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/search/classes_2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/search/classes_3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/search/classes_3.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/search/classes_4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/search/classes_4.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/search/classes_5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/search/classes_5.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/search/close.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/search/functions_0.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/search/functions_0.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/search/mag_sel.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/search/nomatches.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/search/search.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/search/search.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/search/search_l.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/search/search_m.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/search/search_r.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/search/searchdata.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/splitbar.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/structBinaryOp-members.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/structBinaryOp.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/structBinaryOp__coll__graph.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/structBinaryOp__coll__graph.md5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/structBinaryOp__coll__graph.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/structBinaryOp__inherit__graph.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/structBinaryOp__inherit__graph.md5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/structBinaryOp__inherit__graph.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/structChunk-members.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/structChunk.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/structVector-members.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/structVector.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/structparseChunk-members.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/structparseChunk.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/structparseChunk__coll__graph.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/structparseChunk__coll__graph.md5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/structparseChunk__coll__graph.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/sync_off.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/sync_on.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/tab_a.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/tab_b.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/tab_h.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/tab_s.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/tabs.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/unroll_8hpp_source.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/vector_8hpp_source.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/vector__traits_8hpp_source.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/latex/Makefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/latex/annotated.tex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/latex/classCoulombSolver.tex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/latex/classExprSize.tex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/latex/classExprSize_3_01BinaryOp_3_01Expr1_00_01Expr2_00_01operation_01_4_01_4.tex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/latex/classExprSize_3_01BinaryOp_3_01Expr1_00_01Expr2_00_01operation_01_4_01_4__coll__graph.md5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/latex/classExprSize_3_01BinaryOp_3_01Expr1_00_01Expr2_00_01operation_01_4_01_4__coll__graph.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/latex/classExprSize_3_01BinaryOp_3_01Expr1_00_01Expr2_00_01operation_01_4_01_4__inherit__graph.md5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/latex/classExprSize_3_01BinaryOp_3_01Expr1_00_01Expr2_00_01operation_01_4_01_4__inherit__graph.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/latex/classExprSize_3_01Vector_3_01T_00_01n_01_4_01_4.tex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/latex/classExprSize_3_01Vector_3_01T_00_01n_01_4_01_4__coll__graph.md5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/latex/classExprSize_3_01Vector_3_01T_00_01n_01_4_01_4__coll__graph.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/latex/classExprSize_3_01Vector_3_01T_00_01n_01_4_01_4__inherit__graph.md5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/latex/classExprSize_3_01Vector_3_01T_00_01n_01_4_01_4__inherit__graph.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/latex/classMemoryMappedFile.tex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/latex/dir_68267d1309a1af8e8297ef4c3efbcdba.tex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/latex/doxygen.sty" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/latex/hierarchy.tex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/latex/refman.tex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/latex/structBinaryOp.tex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/latex/structBinaryOp__coll__graph.md5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/latex/structBinaryOp__coll__graph.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/latex/structBinaryOp__inherit__graph.md5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/latex/structBinaryOp__inherit__graph.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/latex/structChunk.tex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/latex/structVector.tex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/latex/structparseChunk.tex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/latex/structparseChunk__coll__graph.md5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/latex/structparseChunk__coll__graph.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/binary_operations.hpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/coulomb_solver.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/coulomb_solver.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/coulomb_solver.hpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/file_io.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/file_io.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/file_io.hpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/unroll.hpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/vector.hpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/vector_traits.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/struct_of_arrays.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/struct_of_arrays.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tuple_helper.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/tuple_helper.hpp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-release/" />
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
@@ -262,8 +80,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/struct_of_arrays.hpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="674">
-              <caret line="133" column="9" selection-start-line="133" selection-start-column="9" selection-end-line="133" selection-end-column="14" />
+            <state relative-caret-position="288">
+              <caret line="135" column="59" selection-start-line="135" selection-start-column="59" selection-end-line="135" selection-end-column="59" />
               <folding>
                 <element signature="e#81#98#0" expanded="true" />
                 <element signature="e#160#175#0" expanded="true" />
@@ -287,12 +105,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/tuple_helper.hpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="2" selection-end-column="2" />
+            <state relative-caret-position="-512">
+              <caret line="13" column="42" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
               <folding>
                 <element signature="e#54#70#0" expanded="true" />
-                <element signature="e#84#105#0" expanded="true" />
-                <element signature="e#235#267#0" expanded="true" />
+                <element signature="e#127#148#0" expanded="true" />
+                <element signature="e#123#144#0" expanded="true" />
+                <element signature="e#376#408#0" expanded="true" />
                 <element signature="e#387#431#0" expanded="true" />
                 <element signature="e#810#836#0" expanded="true" />
               </folding>
@@ -327,10 +146,10 @@
         <option value="$PROJECT_DIR$/src/file_io.cpp" />
         <option value="$PROJECT_DIR$/CMakeLists.txt" />
         <option value="$PROJECT_DIR$/src/points.hpp" />
-        <option value="$PROJECT_DIR$/src/tuple_helper.hpp" />
         <option value="$PROJECT_DIR$/src/file_io.hpp" />
         <option value="$PROJECT_DIR$/src/main.cpp" />
         <option value="$PROJECT_DIR$/src/coulomb_solver.hpp" />
+        <option value="$PROJECT_DIR$/src/tuple_helper.hpp" />
         <option value="$PROJECT_DIR$/src/struct_of_arrays.hpp" />
       </list>
     </option>
@@ -433,12 +252,12 @@
       <workItem from="1565601579759" duration="599000" />
       <workItem from="1565718950523" duration="4871000" />
       <workItem from="1566062313667" duration="17479000" />
-      <workItem from="1566116988660" duration="27955000" />
+      <workItem from="1566116988660" duration="29312000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45434000" />
+    <option name="totallyTimeSpent" value="46791000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="70" y="27" width="2490" height="1053" extended-state="6" />
@@ -456,7 +275,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info active="true" anchor="bottom" id="Messages" order="9" visible="true" weight="0.365991" />
+      <window_info active="true" anchor="bottom" id="Messages" order="9" visible="true" weight="0.3918919" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.15202703" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="12" />
@@ -573,20 +392,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/tuple_helper.hpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="2" selection-end-column="2" />
-          <folding>
-            <element signature="e#54#70#0" expanded="true" />
-            <element signature="e#84#105#0" expanded="true" />
-            <element signature="e#235#267#0" expanded="true" />
-            <element signature="e#387#431#0" expanded="true" />
-            <element signature="e#810#836#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="146">
@@ -617,10 +422,25 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/tuple_helper.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-512">
+          <caret line="13" column="42" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
+          <folding>
+            <element signature="e#54#70#0" expanded="true" />
+            <element signature="e#127#148#0" expanded="true" />
+            <element signature="e#123#144#0" expanded="true" />
+            <element signature="e#376#408#0" expanded="true" />
+            <element signature="e#387#431#0" expanded="true" />
+            <element signature="e#810#836#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/struct_of_arrays.hpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="674">
-          <caret line="133" column="9" selection-start-line="133" selection-start-column="9" selection-end-line="133" selection-end-column="14" />
+        <state relative-caret-position="288">
+          <caret line="135" column="59" selection-start-line="135" selection-start-column="59" selection-end-line="135" selection-end-column="59" />
           <folding>
             <element signature="e#81#98#0" expanded="true" />
             <element signature="e#160#175#0" expanded="true" />

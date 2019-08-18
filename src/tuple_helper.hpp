@@ -10,12 +10,16 @@
 namespace detail
 {
 
-    template<class F, class... T>
-    constexpr bool returns_void(F f, std::tuple<T...>)
+    template<class F, class T>
+    struct returns_void : public std::true_type
     {
-        return std::is_same_v<std::invoke_result_t<F, T...>, void>;
-    }
+    };
 
+    template<class F, class ...T>
+    struct returns_void<F, std::tuple<T...>>
+    {
+        constexpr static auto value = std::is_same_v<std::invoke_result_t<F, T...>, void>;
+    };
 
     template<std::size_t i, class... Tuples>
     constexpr decltype(auto) get_ith_elements(Tuples &&...ts)
@@ -26,7 +30,7 @@ namespace detail
     template<class F, class... Tuples, std::size_t... I>
     constexpr decltype(auto) apply_for_each_row_impl(F &&f, std::index_sequence<I...>, Tuples &&...ts)
     {
-        if constexpr((returns_void(f, get_ith_elements<I>(ts...)) || ... || false))
+        if constexpr((returns_void<F, decltype(get_ith_elements<I>(ts...))>::value || ... || false))
         {
             (std::apply(f, get_ith_elements<I>(ts...)), ...);
             return;
